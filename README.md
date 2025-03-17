@@ -1,5 +1,5 @@
 
-  <div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
@@ -17,3 +17,7 @@
 ---
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Genoxis12)
+
+---
+
+![image](https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool/blob/main/images/trad_title.png)
