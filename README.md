@@ -20,4 +20,6 @@
 
 ---
 
-<img src="https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool/blob/main/images/trad_title.png" height="200" />
+<center>
+  <img src="https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool/blob/main/images/trad_title.png" height="200" />
+</center>
