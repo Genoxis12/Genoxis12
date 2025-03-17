@@ -21,5 +21,7 @@
 ---
 
 <div>
-  <img src="https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool/blob/main/images/trad_title_without_logo.png" height="200" />
+  <a href="https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool">
+    <img src="https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool/blob/main/images/trad_title_without_logo.png" height="200" />
+  </a>
 </div>
