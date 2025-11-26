@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Genoxis12)](https://git.io/streak-stats) ![Genoxis GitHub stats](https://github-readme-stats.vercel.app/api?username=genoxis12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Genoxis12)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genoxis12&show_icons=true)
 
 ---
 <H1>Projects</H1>
