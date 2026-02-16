@@ -1,6 +1,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Genoxis12)](https://git.io/streak-stats) ![Genoxis12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Genoxis12&show_icons=true)
 
 ---
+<div>
+  <a href="https://github.com/Scribellates">
+    <img src="https://github.com/organizations/Scribellates/settings/profile" height="200" />
+    <H1>Scribellates</H1>
+  </a>
+</div>
+
+---
 <H1>Projects</H1>
 <div>
   <a href="https://github.com/Genoxis12/STALKER-multilingual-machine-translation-tool">
