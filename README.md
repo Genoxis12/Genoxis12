@@ -1,11 +1,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Genoxis12)](https://git.io/streak-stats) ![Genoxis12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Genoxis12&show_icons=true)
 
 ---
+<H1>Organizations</H1>
 <div>
   <a href="https://github.com/Scribellates">
     <img src="https://pbs.twimg.com/profile_images/2022041340981411840/04gwDbpp_400x400.jpg" height="200" />
-    <p>Scribellates</p>
+    <H2>Scribellates</H2>
   </a>
+  <p>Scribellates est un collectifs d'auteurs amateurs travaillant pour la promotion, la protection et l’aide au développement du web novel français libre et gratuit pour tous.</p>
 </div>
 
 ---
