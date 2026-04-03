@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/Scribellates">
     <img src="https://pbs.twimg.com/profile_images/2022041340981411840/04gwDbpp_400x400.jpg" height="200" />
-    <p>Scribellates</p>
   </a>
   <p>Scribellates est un collectifs d'auteurs amateurs travaillant pour la promotion, la protection et l’aide au développement du web novel français libre et gratuit pour tous.</p>
 </div>
